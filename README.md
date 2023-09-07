@@ -1,2 +1,2 @@
 # learnings
-All about Coding
+All about DS and Algorithms

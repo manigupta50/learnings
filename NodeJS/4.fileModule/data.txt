@@ -1,0 +1,3 @@
+name: manish
+dept: tech
+position: manager

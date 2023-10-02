@@ -21,7 +21,7 @@ public class SumArray {
 				}
 				arr1[i] = sum;
 			}
-			return arr1;
+			return arr1[1];
 
 		}
 	}
